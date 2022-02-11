@@ -1,0 +1,7 @@
+POST http://localhost:5000/users/signin
+Content-type:application/json
+
+{    
+    "email":"loveparashar_2k18it068@dtu.ac.in",
+    "password":"123456"
+}

@@ -1,0 +1,17 @@
+.feedback{
+    border: none;
+    background-color: transparent;
+}
+.feedback:hover{
+    border: none;
+    transform: scale(2)
+}
+.feedback:focus{
+    border:none;
+    outline:none;
+}
+.feedback::selection{
+    border:none;
+}
+
+

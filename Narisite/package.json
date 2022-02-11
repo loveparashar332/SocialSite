@@ -1,0 +1,68 @@
+{
+  "name": "Love",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@azure/cognitiveservices-luis-authoring": "^4.0.0-preview.1",
+    "@azure/ms-rest-azure-js": "^2.0.1",
+    "@azure/storage-blob": "^12.0.2",
+    "@material-ui/core": "^4.9.1",
+    "@material-ui/icons": "^4.9.1",
+    "@microsoft/applicationinsights-react-js": "^2.4.3",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "create-react-app": "^3.4.1",
+    "dotenv": "^8.2.0",
+    "draft-js": "^0.11.6",
+    "express": "^4.17.1",
+    "google-map-react": "^1.1.7",
+    "mapmyindia-react": "^1.0.4",
+    "markdown-to-jsx": "^6.10.3",
+    "marked": "^0.8.0",
+    "nexmo": "^2.6.0",
+    "react": "^16.12.0",
+    "react-card-carousel": "^1.1.3",
+    "react-dom": "^16.12.0",
+    "react-geolocated": "^3.0.1",
+    "react-here-maps": "^0.4.0",
+    "react-multi-carousel": "^2.5.5",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.1",
+    "react-simple-chatbot": "^0.6.1",
+    "react-twitter-embed": "^3.0.3",
+    "socket.io": "^2.3.0",
+    "styled-components": "^5.1.1",
+    "twilio": "^3.39.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@editorjs/editorjs": "^2.16.1",
+    "@editorjs/embed": "^2.2.1",
+    "@editorjs/header": "^2.4.0",
+    "@editorjs/list": "^1.4.0",
+    "@editorjs/simple-image": "^1.3.3"
+  }
+}
